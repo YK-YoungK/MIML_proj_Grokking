@@ -1,4 +1,4 @@
-# Towards Understanding the Mystery behind Grokking Phenomenon via Model and Training Efficiency
+# Towards Understanding Grokking Phenomenon via Model and Training Efficiency
 
 Final project for Mathematical Introduction to Machine Learning course in Peking University (2023 fall).
 
